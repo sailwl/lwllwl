@@ -61,6 +61,7 @@ body {
     height:600px;
     border: 2px;
     text-align: left;
+    width: auto;
 }
  
 /* 底部 */
